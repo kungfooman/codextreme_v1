@@ -1,5 +1,6 @@
 # codextreme_v1
 
 Credits:
+- Fabio (http://www.modszombies.com/)
 - php (https://github.com/riicchhaarrd)
-- kung foo man (killtube.org)
+- kung foo man (http://killtube.org)
